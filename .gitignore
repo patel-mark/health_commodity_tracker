@@ -1,0 +1,5 @@
+# Ignore local data, environment variables, and Python cache
+/data/
+.env
+__pycache__/
+*.pyc
